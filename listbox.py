@@ -5,7 +5,7 @@ from tkinter import messagebox
  
 pencere = Tk()
  
-pencere.title("www.yazilimkodlama.com")
+pencere.title("www.miraczorlu.com")
 pencere.geometry("400x300")
  
 #grid form çizdirme
